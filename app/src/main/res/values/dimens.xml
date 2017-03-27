@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="app_bar_height">200dp</dimen>
+    <dimen name="item_width">200dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="review_list_item_margin_bottom">4dp</dimen>
+    <dimen name="review_list_item_author_text_size">12sp</dimen>
+    <dimen name="movie_detail_trailer_review_heading_size">20sp</dimen>
+    <dimen name="movie_detail_favourite_margin_right">32dp</dimen>
+    <dimen name="movie_detail_movie_heading_text_size">32sp</dimen>
+</resources>

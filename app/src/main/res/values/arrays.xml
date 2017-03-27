@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="SettingEntries">
+        <item>@string/SettingEntriesTopRated</item>
+        <item>@string/SettingEntriesMostPopular</item>
+        <item>@string/SettingEntriesFavourite</item>
+    </string-array>
+    <string-array name="SettingEntriesValue">
+        <item>@string/SettingEntriesTopRatedValue</item>
+        <item>@string/SettingEntriesMostPopularValue</item>
+        <item>@string/SettingEntriesFavouriteValue</item>
+    </string-array>
+</resources>
